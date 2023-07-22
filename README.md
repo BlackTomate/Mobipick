@@ -1,5 +1,3 @@
-__THIS PROJECT IS NO LONGER MAINTAINED!__
-
 Mobi Pick
 =========
 
@@ -14,7 +12,6 @@ Changelog
 * updated to be compatible with jQuery mobile 1.3.0RC1, jQuery 1.9.1, XDate 0.7, Modernizr 2.6.2, QUnit 1.11.0 ([version 0.7 branch for compatibility with legacy versions exists](https://github.com/sustainablepace/mobipick/tree/jqm-1.0))
 
 ### 0.7 ###
-* [Issue #5](https://github.com/sustainablepace/mobipick/issues/5)
 * new public method updateDateInput
 * possible to set date to null
 
@@ -25,8 +22,6 @@ Changelog
 * range picker support
 * custom output format (boolean option intlStdDate)
 * set default date programmatically (String|Date|XDate option date)
-* [Issue #4](https://github.com/sustainablepace/mobipick/issues/4)
-
 ### 0.4 ###
 
 * IE7 support
