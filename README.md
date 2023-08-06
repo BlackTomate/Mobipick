@@ -3,8 +3,12 @@ Mobi Pick
 
 Light-weight Android-style datepicker widget for jQuery Mobile. 3KB minified and gzipped.
 
+
 Changelog
 ---------
+### 1.0 ###
+* refactored accuracy option for month and year pickers
+
 ### 0.9 ###
 * refactored dialog to use the jQuery mobile popup widget
 
